@@ -11,4 +11,9 @@ project_ckpt1_template.ipynb: Data Preparation
 
 Checkpoint 2: 
 proejct_ckpt2_template.ipynb: Network Construction and Workflow Development
-- develop ANITrainer class
+  - develop ANITrainer class
+
+Checkpoint 3:
+project_ckpt3_template.ipynb: Regularization Strategies and Hyperparameter Tuning
+  - set-up architecture, hyperparameters and the regularization strategies
+  - create final model
