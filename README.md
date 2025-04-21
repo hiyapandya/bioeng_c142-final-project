@@ -18,3 +18,8 @@ Checkpoint 3:
 project_ckpt3_template.ipynb: Regularization Strategies and Hyperparameter Tuning
   - set-up architecture, hyperparameters and the regularization strategies
   - create final model
+
+Checkpoint 4:
+project_ckpt4_template.ipynb: Final Production Mode
+  - multiple runs
+  - N-fold cross-validation
