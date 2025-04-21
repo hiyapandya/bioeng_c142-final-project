@@ -23,3 +23,8 @@ Checkpoint 4:
 project_ckpt4_template.ipynb: Final Production Mode
   - multiple runs
   - N-fold cross-validation
+
+Checkpoint 5:
+project_ckpt5_template.ipynb: Final Results
+  - trained model with all data
+  - compared final results to results in paper
