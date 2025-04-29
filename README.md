@@ -1,4 +1,4 @@
-c142_final_project
+c142_final_project: Supervised Learning ANN Model For The ANI-1 Dataset
 
 
 Checkpoint 1:
